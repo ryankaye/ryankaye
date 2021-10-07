@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Experiments with ✨ Functional Programming ✨ usually in JavaScript, React, ClojureScript and Elm.
+
 <!--
 **ryankaye/ryankaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
