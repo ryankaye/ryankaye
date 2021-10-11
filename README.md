@@ -2,6 +2,8 @@
 
 Experiments with ✨ Functional Programming ✨ usually in JavaScript, React, NextJS, ClojureScript and Elm.
 
+Web developer, currently employed at the [University of Stirling](https://www.stir.ac.uk).
+
 <!--
 **ryankaye/ryankaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
