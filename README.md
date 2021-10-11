@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ahoy there 👋
 
 Experiments with ✨ Functional Programming ✨ usually in JavaScript, React, NextJS, ClojureScript and Elm.
 
