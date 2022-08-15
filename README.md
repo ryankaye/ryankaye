@@ -1,6 +1,6 @@
 ### Ahoy there 👋
 
-Experiments with ✨ Functional Programming ✨ usually in JavaScript, React, NextJS, and ClojureScript.
+Experiments with ✨ Functional Programming ✨ usually in JavaScript, React, Remix Run, NextJS, and ClojureScript.
 
 Web developer, currently employed at the [University of Stirling](https://www.stir.ac.uk).
 
