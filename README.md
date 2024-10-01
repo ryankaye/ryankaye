@@ -1,8 +1,8 @@
 ### Ahoy there 👋
 
-Experiments with ✨ Functional Programming ✨ usually in JavaScript, React, Remix Run, NextJS, and ClojureScript.
+Building using ✨ Functional Programming ✨ methods usually messing with JavaScript, Bun, React, Remix Run, NextJS, and ClojureScript.
 
-Web developer, currently employed at the [University of Stirling](https://www.stir.ac.uk).
+Full stack web developer, currently employed at the [University of Stirling](https://www.stir.ac.uk).
 
 <!--
 **ryankaye/ryankaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
